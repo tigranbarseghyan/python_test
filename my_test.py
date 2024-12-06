@@ -6,5 +6,5 @@ def test_sum():
 def test_sub():
     assert main.msub(20, 10) == 10
 
-def test_sum1():
-    assert main.msum(10, 30) == 41
+def test_mult():
+    assert main.mult(10, 30) == 300
